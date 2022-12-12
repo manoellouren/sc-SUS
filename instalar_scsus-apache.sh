@@ -106,7 +106,6 @@ service apache2 restart
 service php8.1-fpm restart
 service mysql restart
 
-
 #Instalar PHPadmin WEB
 
 sudo apt install phpmyadmin -y
